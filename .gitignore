@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__
+logs/*
+!logs/info.txt
+models/*
+!models/course_004_ppo.zip
+roms/
+

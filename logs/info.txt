@@ -1,0 +1,3 @@
+tensorboard logs go here.
+start the tensorboard via:
+tensorboard --logdir path/to/this/logs/folder
